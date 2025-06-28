@@ -1,0 +1,111 @@
+#,request_id,client_id,subject,description,status,priority,created_at,resolved_at
+1,1,12,Internet Issue,Client reports frequent disconnection from the internet service.,Resolved,High,2023-10-15 09:30:00,2023-10-16 14:00:00
+2,2,45,Billing Error,Invoice for September contains unexpected charges.,Resolved,Medium,2023-09-22 11:00:00,2023-09-23 10:15:00
+3,3,27,Connection Speed Slow,Internet speed is significantly below the promised bandwidth.,Open,High,2024-03-01 15:40:00,
+4,4,8,Password Reset,Client forgot password for account portal.,Resolved,Low,2024-01-09 08:20:00,2024-01-09 09:00:00
+5,5,63,Service Upgrade,Requesting upgrade from basic to premium service.,Resolved,Medium,2024-04-05 16:30:00,
+6,6,33,Router Malfunction,The provided router has stopped functioning.,Resolved,High,2023-12-03 10:10:00,2023-12-04 16:00:00
+7,7,59,Late Installation,Technician did not arrive on the scheduled date.,Resolved,High,2023-10-27 12:00:00,2023-10-29 14:30:00
+8,8,21,VPN Not Working,VPN connection drops every 10 minutes.,Open,High,2024-02-05 17:45:00,
+9,9,90,Incorrect Address,Installation scheduled at the wrong address.,Resolved,Medium,2023-11-01 14:00:00,2023-11-02 10:30:00
+10,10,19,Mobile App Crash,The app crashes immediately after login.,Resolved,Medium,2023-09-19 07:55:00,2023-09-19 12:20:00
+11,11,55,Payment Not Reflected,Payment made online is not showing on account.,Open,Medium,2024-01-22 11:40:00,
+12,12,39,Account Locked,Client cannot log in due to multiple failed attempts.,Resolved,Low,2023-08-30 16:30:00,2023-08-30 17:10:00
+13,13,77,Frequent Disconnects,Internet disconnects several times a day.,Open,High,2024-04-14 09:00:00,
+14,14,17,Installation Request,New service installation requested.,Open,Medium,2023-10-12 10:00:00,
+15,15,5,Device Compatibility,Smart TV not connecting to Wi-Fi.,Resolved,Low,2023-12-25 18:30:00,2023-12-26 09:00:00
+16,16,88,Email Spam,Receiving promotional emails without subscription.,Resolved,Low,2023-11-06 13:45:00,2023-11-07 08:15:00
+17,17,36,Downtime Report,Total outage in the area for 4 hours.,Resolved,High,2024-03-19 07:20:00,2024-03-19 11:45:00
+18,18,70,Login Issues,Client cannot log in to customer portal.,Open,Medium,2024-01-13 14:25:00,
+19,19,9,Service Termination Request,Wants to cancel the service effective next month.,Open,Medium,2024-02-18 16:00:00,
+20,20,52,Slow Loading Times,Websites load very slowly during the evening.,Open,Low,2024-03-27 19:30:00,
+21,21,31,New Router Request,Client requests an upgrade to newer router model.,Resolved,Medium,2023-07-10 15:10:00,2023-07-11 12:00:00
+22,22,4,Broken Cable,Client reports exposed or broken cable outside home.,Open,High,2023-10-03 11:50:00,
+23,23,74,Phone Line Noise,Client reports static noise during calls.,Resolved,Low,2023-11-25 10:20:00,2023-11-25 14:45:00
+24,24,22,Slow Upload Speed,Uploading files takes unusually long.,Open,Medium,2024-03-05 13:00:00,
+25,25,67,Device Activation,Cannot activate device linked to account.,Resolved,Low,2023-09-01 09:30:00,2023-09-01 11:00:00
+26,26,100,Wrong Bill Amount,Billed more than actual usage.,Open,High,2023-12-07 14:15:00,
+27,27,6,Frequent Buffering,Videos keep buffering even with good speed.,Resolved,Medium,2023-10-11 17:50:00,2023-10-12 09:00:00
+28,28,40,Account Termination Delay,Requested cancellation not processed.,Open,Medium,2024-01-08 11:30:00,
+29,29,13,Router Configuration Help,Client needs help changing Wi-Fi password.,Resolved,Low,2023-10-20 08:00:00,2023-10-20 08:45:00
+30,30,81,Service Not Activated,New service still not active after 3 days.,Open,High,2024-04-01 12:10:00,
+31,31,15,Wi-Fi Drops Frequently,Connection drops every evening for no reason.,Open,High,2024-04-10 20:00:00,
+32,32,28,Static IP Request,Customer requests a static IP address for home network.,In Progress,Medium,2024-03-03 14:30:00,
+33,33,94,Incorrect Client Info,Client info displayed on account does not match.,Resolved,Low,2024-02-18 10:45:00,2024-02-18 12:00:00
+34,34,11,No Signal in Region,Internet service unavailable for last 6 hours.,Resolved,High,2023-11-29 07:00:00,2023-11-29 13:30:00
+35,35,76,Payment Failure,Unable to pay via online system.,Closed,Medium,2023-12-13 09:15:00,2023-12-13 11:40:00
+36,36,66,Wrong Device Delivered,Client received wrong modem model.,Resolved,Medium,2024-01-15 12:00:00,2024-01-16 09:30:00
+37,37,98,Suspicious Account Login,Client suspects unauthorized login.,In Progress,High,2024-03-10 16:25:00,
+38,38,26,Frequent Reconnection Needed,Client has to reconnect manually every hour.,Open,High,2024-02-22 18:10:00,
+39,39,83,Service Activation Delay,Fiber connection not activated yet.,In Progress,High,2024-04-02 10:10:00,
+40,40,34,Port Forwarding Setup,Client requests help with setting up port forwarding.,Resolved,Low,2024-01-27 15:20:00,2024-01-27 16:00:00
+41,41,61,Email Login Issue,Client cannot log into company-provided email.,Open,Medium,2023-12-02 08:40:00,
+42,42,30,Line Interference,Phone line interference after heavy rain.,Resolved,Low,2023-11-17 11:30:00,2023-11-17 13:10:00
+43,43,53,Misleading Advertised Speeds,Speed advertised does not match actual performance.,In Progress,Medium,2024-01-11 13:30:00,
+44,44,93,Service Transfer Request,Client moving to a new apartment.,In Progress,Medium,2024-02-25 09:15:00,
+45,45,2,Phone App Not Syncing,The mobile app does not sync with desktop account.,Resolved,Low,2024-01-09 17:00:00,2024-01-09 18:00:00
+46,46,100,Frequent Connection Loss,Customer loses signal 4–5 times per day.,Open,High,2024-04-08 10:00:00,
+47,47,37,Service Downtime Report,No connection for 2 days straight.,Resolved,High,2023-10-21 08:15:00,2023-10-22 14:00:00
+48,48,51,Loyalty Program Inquiry,Customer asks about loyalty program benefits.,Closed,Low,2023-09-03 12:10:00,2023-09-03 13:00:00
+49,49,68,New Number Activation,Mobile number still not active after porting.,In Progress,High,2024-02-13 11:25:00,
+50,50,95,Modem Firmware Update,Request for assistance updating modem firmware.,Resolved,Medium,2023-11-04 14:50:00,2023-11-04 16:20:00
+51,51,16,Spam Calls Report,Customer receives spam calls daily.,Closed,Low,2024-01-03 10:30:00,2024-01-03 11:00:00
+52,52,46,No Technician Arrived,Installation missed twice by technician.,In Progress,High,2024-03-07 13:00:00,
+53,53,73,Double Payment Issue,Account charged twice for last month.,Resolved,Medium,2023-10-09 16:45:00,2023-10-10 09:30:00
+54,54,35,Signal Strength Weak,Coverage inside apartment is poor.,Open,Medium,2024-01-14 18:00:00,
+55,55,14,Subscription Plan Change,Client wants to switch to business package.,Closed,Medium,2023-12-05 10:00:00,2023-12-05 14:30:00
+56,56,91,Misrouted Support Ticket,Ticket was closed without proper resolution.,In Progress,Medium,2023-11-15 15:00:00,
+57,57,60,No Internet After Storm,Connectivity lost after yesterday's thunderstorm.,Resolved,High,2024-01-05 07:50:00,2024-01-05 13:20:00
+58,58,87,Multiple Accounts Merge,Client wants to merge duplicate accounts.,Closed,Low,2023-10-01 11:10:00,2023-10-01 13:40:00
+59,59,24,Billing Cycle Change,Customer wants bill due date moved.,Open,Low,2024-03-29 17:00:00,
+60,60,7,Lost Equipment Return,Client returned device but still charged for it.,In Progress,High,2023-12-22 10:30:00,
+61,61,32,Account Locked,Client cannot access personal dashboard.,Resolved,Medium,2024-01-15 09:10:00,2024-01-15 10:20:00
+62,62,84,Late Invoice Delivery,Invoices sent later than expected.,In Progress,Low,2023-12-03 11:30:00,
+63,63,12,Speed Upgrade Request,Client wants higher internet speed.,Closed,Low,2024-02-08 14:45:00,2024-02-08 16:00:00
+64,64,39,Modem Not Compatible,Old modem incompatible with new plan.,Resolved,Medium,2023-11-20 13:00:00,2023-11-20 14:15:00
+65,65,48,Frequent Timeout Errors,Websites often timeout when loading.,Open,High,2024-03-03 17:00:00,
+66,66,5,VPN Not Working,Corporate VPN not connecting.,Resolved,Medium,2023-12-11 10:10:00,2023-12-11 11:30:00
+67,67,67,Data Cap Confusion,Client unclear about monthly data limit.,In Progress,Low,2024-01-19 08:50:00,
+68,68,80,Request for Installation,"Client moved, needs new router.",In Progress,High,2024-03-06 10:40:00,
+69,69,42,Overcharged for SMS,Billed for SMS not sent.,Resolved,Medium,2024-01-07 12:30:00,2024-01-07 14:00:00
+70,70,21,Broken Router Lights,Router indicators not working.,Closed,Low,2023-11-23 18:20:00,2023-11-23 19:00:00
+71,71,18,Change of Ownership,New tenant wants account transfer.,In Progress,Medium,2024-04-01 15:15:00,
+72,72,75,Lag During Gaming,High ping in online games.,Open,High,2024-03-12 19:00:00,
+73,73,9,Digital TV Guide Missing,TV guide feature unavailable.,Resolved,Low,2024-01-25 11:40:00,2024-01-25 12:30:00
+74,74,58,Old Account Still Active,Still billed for closed account.,Closed,High,2023-12-17 14:30:00,2023-12-17 16:00:00
+75,75,20,Request for Family Plan,Client wants multiple accounts merged.,In Progress,Medium,2024-02-11 13:25:00,
+76,76,3,VoIP Lag Issue,Voice lags during calls.,Open,High,2024-03-18 09:00:00,
+77,77,90,Password Reset Problem,Cannot reset password through portal.,Resolved,Low,2023-12-28 10:00:00,2023-12-28 10:45:00
+78,78,56,Router Replacement Request,Old router malfunctioning.,In Progress,Medium,2024-02-04 12:00:00,
+79,79,85,Lost Contract Copy,Client lost original service agreement.,Resolved,Low,2024-01-06 08:30:00,2024-01-06 09:20:00
+80,80,40,Broken Optical Cable,Fiber cable damaged during renovation.,Resolved,High,2024-03-09 16:40:00,2024-03-10 10:00:00
+81,81,6,Poor Upload Speeds,Upload speed lower than expected.,Open,High,2024-02-14 17:30:00,
+82,82,29,Contract Termination,Client wants to end contract.,In Progress,High,2024-03-15 11:10:00,
+83,83,77,Duplicate Payment,Double charged for same invoice.,Resolved,Medium,2024-01-16 13:00:00,2024-01-16 14:30:00
+84,84,35,App Crashes on Launch,Mobile app crashes instantly.,Open,Medium,2024-02-26 08:00:00,
+85,85,43,Account Name Change,Client updated legal name.,Closed,Low,2023-12-21 14:00:00,2023-12-21 14:40:00
+86,86,55,Office Network Outage,No internet in office.,Resolved,High,2024-01-30 07:30:00,2024-01-30 10:00:00
+87,87,19,New SIM Not Registered,SIM not recognized by system.,In Progress,Medium,2024-02-19 10:20:00,
+88,88,71,Promotional Discount Missing,Promised discount not applied.,Resolved,Low,2024-01-12 16:30:00,2024-01-12 17:20:00
+89,89,25,Upload Freezes in Cloud App,Cloud app uploads fail.,Open,Medium,2024-03-21 13:45:00,
+90,90,63,Account Compromised,Suspicious login detected.,In Progress,High,2024-03-14 17:00:00,
+91,91,37,Email Not Syncing,Client email app fails to sync.,Resolved,Medium,2024-03-01 09:00:00,2024-03-01 10:10:00
+92,92,13,Website Blocked,Access to important business site blocked.,Open,Low,2024-04-04 12:45:00,
+93,93,70,Billing Plan Confusion,Client doesn’t understand tariff differences.,In Progress,Low,2024-03-27 14:00:00,
+94,94,26,Connection Drops at Night,Frequent internet loss at 2 AM.,Open,High,2024-04-10 02:15:00,
+95,95,62,Overheated Modem,Modem overheats after 2 hours.,Resolved,High,2024-03-16 11:20:00,2024-03-16 13:30:00
+96,96,44,Subscription Cancellation,Client wants to cancel IPTV.,Closed,Medium,2024-02-09 10:00:00,2024-02-09 10:40:00
+97,97,31,Service Not Available in Area,Promised coverage unavailable.,In Progress,High,2024-04-02 15:15:00,
+98,98,87,Old Device Compatibility,Smart TV not working with new router.,Open,Medium,2024-03-23 16:00:00,
+99,99,51,Late Night Support Unavailable,Client needs support at night.,Resolved,Low,2024-01-26 23:00:00,2024-01-27 08:30:00
+100,100,88,Wi-Fi Signal Drops Frequently,Unstable signal in some rooms.,Open,High,2024-03-19 17:45:00,
+101,101,4,Corrupted Invoice PDF,Cannot open billing attachment.,Resolved,Low,2024-02-12 09:20:00,2024-02-12 10:00:00
+102,102,53,Router Firmware Update Needed,Needs help updating firmware.,In Progress,Medium,2024-03-05 14:30:00,
+103,103,74,Email Notifications Missing,Not receiving monthly email reminders.,Resolved,Low,2024-01-09 13:00:00,2024-01-09 14:00:00
+104,104,98,Plan Upgrade Delay,Upgrade application delayed.,In Progress,Medium,2024-04-06 10:40:00,
+105,105,60,Port Forwarding Setup,Client requests port forwarding config.,Resolved,High,2024-03-07 09:30:00,2024-03-07 11:00:00
+106,106,86,Fraud Alert Inquiry,Client got alert about access.,Open,High,2024-04-03 12:00:00,
+107,107,24,Customer Portal Bug,Billing tab does not load.,In Progress,Medium,2024-02-18 11:50:00,
+108,108,73,Noise on Landline,Static noise during phone calls.,Resolved,Low,2024-03-11 15:00:00,2024-03-11 15:40:00
+109,109,59,Multiple Login Issues,Client can’t log in on multiple devices.,Open,Medium,2024-04-08 08:20:00,
+110,110,45,Installation Appointment Delay,Technician delayed without notice.,In Progress,High,2024-03-25 13:15:00,

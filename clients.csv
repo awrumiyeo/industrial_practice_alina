@@ -1,0 +1,111 @@
+#,client_id,full_name,company_name,client_type,phone,email,registration_date,region
+1,1,Айбек Ахметов,TOO Kaztelecom Solutions,Business,+7 701 123 4567,a.akhmetov@kaztelecom.kz,2023-01-15,Алматы
+2,2,Аружан Калиева,"",Individual,+7 777 654 3210,aruzhan.kalieva@mail.ru,2022-09-12,Нур-Султан
+3,3,Ерлан Нурланов,TOO AstanaCloud,Business,+7 705 876 5432,e.nurlanov@astanacloud.kz,2024-03-01,Астана
+4,4,Мадина Серикова,"",Individual,+7 701 345 6789,madina_serikova@gmail.com,2023-06-20,Шымкент
+5,5,Нурсултан Абдрахманов,TOO Digital Steppe,Business,+7 702 432 1987,n.abdrakhmanov@digitalstep.kz,2023-11-05,Караганда
+6,6,Айнур Турсунова,"",Individual,+7 707 765 4321,ainur_tursunova@yandex.kz,2024-01-10,Актобе
+7,7,Данияр Сагындык,TOO Saryarka Network,Business,+7 705 908 7654,d.sagyndyk@sarynet.kz,2023-02-18,Павлодар
+8,8,Жанар Касымова,"",Individual,+7 771 123 0987,zhasymova1988@mail.ru,2022-08-27,Уральск
+9,9,Руслан Мусаев,TOO AltelSoft,Business,+7 776 789 4321,ruslan.m@altelsoft.kz,2024-05-04,Костанай
+10,10,Камила Султанова,"",Individual,+7 778 234 5678,s.kamila@outlook.com,2023-09-17,Тараз
+11,11,Асет Бейсенов,TOO CloudLine KZ,Business,+7 705 999 1100,asset.b@cloudline.kz,2022-05-22,Семей
+12,12,Гульмира Оразбаева,"",Individual,+7 701 223 4455,gulmira_oraz@yahoo.com,2023-12-11,Кызылорда
+13,13,Тимур Садыков,TOO ToleTech,Business,+7 707 111 2233,timur@toletech.kz,2023-04-10,Талдыкорган
+14,14,Алия Ташенова,"",Individual,+7 777 333 5544,aliya.tashenova@gmail.com,2023-08-06,Усть-Каменогорск
+15,15,Мурат Есимов,TOO Orbit Telecom,Business,+7 775 112 3344,murat.esimov@orbit.kz,2024-02-15,Атырау
+16,16,Акерке Бекмуханбет,"",Individual,+7 771 998 8877,a.bekmuhannet@mail.kz,2022-07-19,Кокшетау
+17,17,Бауыржан Жумабаев,TOO EurasiaLink,Business,+7 702 445 6677,b.zhumabayev@eurasialink.kz,2023-01-03,Темиртау
+18,18,Диана Амангелдиева,"",Individual,+7 707 881 2233,diana.aman@inbox.kz,2024-03-28,Петропавловск
+19,19,Санжар Каримов,TOO SigmaTelecom,Business,+7 705 332 2112,s.karimov@sigma.kz,2023-10-01,Караганда
+20,20,Жулдыз Турсынова,"",Individual,+7 778 900 1122,zhuldyz.tursynova@mail.ru,2022-11-09,Алматы
+21,21,Айдос Ермеков,TOO QazaqNet,Business,+7 701 455 6678,aidos@yernet.kz,2024-01-15,Астана
+22,22,Асемгуль Сулейменова,"",Individual,+7 702 345 6780,asemsu@mail.kz,2023-06-07,Шымкент
+23,23,Еркебулан Даулет,TOO Silkway Data,Business,+7 776 888 9001,erke@silkwaydata.kz,2022-09-15,Кызылорда
+24,24,Меруерт Каланова,"",Individual,+7 707 554 9912,meruertk@yandex.kz,2024-04-01,Павлодар
+25,25,Султан Айтпаев,TOO SatCom.kz,Business,+7 705 100 2234,sultan.aitpaev@satcom.kz,2023-08-22,Алматы
+26,26,Лаура Амантаева,"",Individual,+7 771 221 3345,laura.amantaeva@gmail.com,2022-10-19,Актобе
+27,27,Ерасыл Нурмухаммед,TOO KazCloudCenter,Business,+7 702 880 7721,e.nurmu@kazcloud.kz,2023-03-11,Атырау
+28,28,Назерке Есимхан,"",Individual,+7 778 332 2211,naz_esimkhan@bk.ru,2024-05-17,Семей
+29,29,Рамиль Ахмедов,TOO FiberPro,Business,+7 775 880 0991,ramil.a@fiberpro.kz,2022-06-05,Караганда
+30,30,Динара Акишева,"",Individual,+7 701 765 2345,dinaki77@mail.kz,2023-12-23,Тараз
+31,31,Алимжан Жаксылыков,TOO NovaTelecom,Business,+7 707 543 2198,alim.nova@telecom.kz,2023-05-21,Актобе
+32,32,Карина Садыкова,"",Individual,+7 777 102 3344,karina.sadykova@mail.ru,2022-12-30,Алматы
+33,33,Дамир Абишев,TOO CloudBridge KZ,Business,+7 705 884 3344,damir.ab@cloudbridge.kz,2023-09-10,Астана
+34,34,Сания Тулегенова,"",Individual,+7 771 330 7654,sania.tuleg@inbox.kz,2023-01-25,Талдыкорган
+35,35,Нурлан Калжанов,TOO SteppeLine,Business,+7 776 434 5566,n.kaljanov@steppeline.kz,2022-11-18,Шымкент
+36,36,Жансая Муратова,"",Individual,+7 702 456 7823,zh.muratova@gmail.com,2024-02-28,Семей
+37,37,Бахытжан Турлубеков,TOO KazDataCenter,Business,+7 707 909 8899,bt@kazdatacenter.kz,2022-07-03,Караганда
+38,38,Раушан Абдиева,"",Individual,+7 778 222 4444,raushan.abdiyeva@bk.ru,2023-10-05,Костанай
+39,39,Ермек Жанибеков,TOO Infotel Asia,Business,+7 775 300 2001,e.zhanibekov@infotel.kz,2023-04-13,Уральск
+40,40,Гаухар Сулеймен,"",Individual,+7 705 122 3345,gauhar_su@outlook.kz,2022-06-26,Тараз
+41,41,Амангельды Сеитов,TOO MegaNet KZ,Business,+7 701 987 5432,a.seitov@meganet.kz,2023-07-17,Петропавловск
+42,42,Асем Алимова,"",Individual,+7 777 212 3435,asem.ali@bk.ru,2024-03-14,Алматы
+43,43,Арман Нусупов,TOO Central Asia Hosting,Business,+7 702 883 2345,arm.nusup@cah.kz,2023-11-27,Кызылорда
+44,44,Жанна Сейдуллина,"",Individual,+7 707 345 2231,janna.seid@mail.ru,2023-06-03,Атырау
+45,45,Даурен Сарсенов,TOO KZCloudPlus,Business,+7 775 129 3987,dauren@kzcloud.kz,2024-01-07,Усть-Каменогорск
+46,46,Мадияр Алиев,"",Individual,+7 778 344 2211,madiyar.aliev@gmail.com,2022-08-08,Караганда
+47,47,Нургуль Есенбекова,"",Individual,+7 707 123 9087,nurgul_es@mail.kz,2023-05-10,Астана
+48,48,Жасулан Бектуров,TOO FiberKaz,Business,+7 705 334 2901,jasulan@fiberkaz.kz,2023-03-18,Актобе
+49,49,Асел Серик,"",Individual,+7 771 002 3345,assel.serik@mail.kz,2024-02-19,Алматы
+50,50,Сергей Иванов,TOO LineCom,Business,+7 707 665 2233,s.ivanov@linecom.kz,2023-12-12,Талдыкорган
+51,51,Марат Жумабаев,"",Individual,+7 702 543 7788,marat.juma@bk.ru,2023-09-14,Атырау
+52,52,Камила Мухамедова,"",Individual,+7 777 434 5566,k.mukhamedova@gmail.com,2022-10-06,Семей
+53,53,Темирлан Сагынов,TOO QazaqTeleService,Business,+7 775 909 8011,temir@qts.kz,2023-01-08,Павлодар
+54,54,Алина Исабекова,"",Individual,+7 701 999 3342,alina.isabek@gmail.com,2023-11-01,Караганда
+55,55,Даулет Жексембаев,TOO Datastream Asia,Business,+7 702 884 7766,d.jeksem@datastream.kz,2022-09-27,Астана
+56,56,Жанель Мусина,"",Individual,+7 707 445 2211,janelle.musina@bk.ru,2024-04-22,Уральск
+57,57,Санжар Абильдин,"",Individual,+7 778 334 1122,sanzhar.abil@gmail.com,2023-02-04,Тараз
+58,58,Гульназ Ермекова,"",Individual,+7 775 100 9988,gulnaz.er@outlook.kz,2022-11-30,Актобе
+59,59,Ринат Сатыбалдин,TOO TeleComUnion,Business,+7 701 223 4455,rinat.satybaldin@tcu.kz,2023-06-16,Алматы
+60,60,Аяжан Калмухамбетова,"",Individual,+7 771 554 6677,ayazhan_kalmu@mail.kz,2024-01-23,Петропавловск
+61,61,Айгерим Султанбек,"",Individual,+7 705 983 1122,a.sultanbek@gmail.com,2023-03-09,Кызылорда
+62,62,Ильяс Тлеубаев,TOO Astana Network Systems,Business,+7 702 334 2299,i.tleubaev@ans.kz,2023-08-30,Астана
+63,63,Мария Козлова,"",Individual,+7 777 441 2233,m.kozlova@outlook.com,2023-07-25,Костанай
+64,64,Дамеля Бакытжан,"",Individual,+7 707 654 1123,damelya.bakytjan@mail.kz,2022-12-19,Усть-Каменогорск
+65,65,Талгат Нурпеисов,TOO NovaFiber Asia,Business,+7 775 112 3344,t.nurpeisov@novafiber.kz,2023-10-15,Талдыкорган
+66,66,Жания Турганова,"",Individual,+7 701 334 9922,zh.turganova@yandex.kz,2024-02-01,Шымкент
+67,67,Ануар Жаксылыков,"",Individual,+7 778 876 5543,anuar.jaksylyk@gmail.com,2023-05-26,Атырау
+68,68,Саяна Баймурзина,"",Individual,+7 705 667 3344,sayana.baimur@mail.kz,2023-09-20,Павлодар
+69,69,Руслан Ергожин,TOO Infinity Link,Business,+7 776 100 4433,ruslan@infinity.kz,2023-04-06,Семей
+70,70,Гульмира Мусаева,"",Individual,+7 771 553 8822,gulmira.musaeva@bk.ru,2022-07-11,Алматы
+71,71,Валентина Федоровна Лихачева,"",Individual,+7 791 547 6065,nikandrilin@gmail.com,2022-07-18,Талдыкорган
+72,72,Дементьев Пахом Фадеевич,"",Individual,+7 770 592 8304,leontialeksandrov@ao.biz,2024-07-08,Уральск
+73,73,Куприян Жоресович Зуев,"",Individual,+7 737 378 9575,bojan_2000@gmail.com,2022-09-15,Костанай
+74,74,Лукия Константиновна Кудрявцева,АО «Сорокин»,Business,+7 785 957 5217,shirjaevanadezhda@gmail.com,2024-02-04,Кызылорда
+75,75,Блохина Александра Ждановна,ООО «Павлов-Муравьев»,Business,+7 768 346 9190,vitali_1991@rambler.ru,2023-11-08,Караганда
+76,76,Елена Ефимовна Дроздова,"ООО «Власова, Жданова и Щербаков»",Business,+7 736 713 8559,trofimovevdokim@rambler.ru,2022-08-23,Павлодар
+77,77,Степанова Анна Валериевна,ЗАО «Ларионов»,Business,+7 709 402 3702,ljubosmisl32@rambler.ru,2024-10-24,Кызылорда
+78,78,Рыбаков Олег Еремеевич,"",Individual,+7 778 985 9409,lchernov@yandex.ru,2023-04-17,Павлодар
+79,79,Савина Олимпиада Захаровна,ОАО «Сергеев-Кошелева»,Business,+7 765 564 1481,noskovjanuari@gmail.com,2024-03-13,Караганда
+80,80,Герасимова Ксения Афанасьевна,РАО «Никифорова-Морозова»,Business,+7 714 496 7375,tit_1971@zao.net,2025-01-09,Талдыкорган
+81,81,Селиверстова Елизавета Феликсовна,ИП «Романова Шубин»,Business,+7 799 452 2451,dmitri76@ao.com,2024-09-01,Алматы
+82,82,Регина Болеславовна Фадеева,"",Individual,+7 768 710 8193,sinklitikija_2022@rao.ru,2024-09-15,Шымкент
+83,83,Филатов Николай Бенедиктович,"",Individual,+7 715 327 8629,pahom32@ip.ru,2025-03-23,Атырау
+84,84,Святослав Терентьевич Субботин,"",Individual,+7 702 404 8652,vinogradovbudimir@safonov.edu,2025-06-17,Кокшетау
+85,85,Зыкова Евфросиния Тимуровна,"",Individual,+7 777 611 9823,efrosinyazykova@mail.kz,2023-12-20,Астана
+86,86,Никитина Есения Львовна,"",Individual,+7 707 880 1203,nikitinayeseniya@mail.kz,2023-11-03,Семей
+87,87,Макаров Анатолий Ильич,ООО «Союз Телеком»,Business,+7 775 644 9900,anmakarov@souztelecom.kz,2022-10-12,Караганда
+88,88,Рахимжан Сеитов,"",Individual,+7 702 124 5567,rahim_seitov@bk.ru,2023-09-07,Алматы
+89,89,Танзила Ералиева,"",Individual,+7 707 883 1234,tanzila_eralieva@mail.kz,2024-01-19,Тараз
+90,90,Гани Муратович Аманов,TOO NetKaz,Business,+7 775 009 2233,gani.am@netkaz.kz,2023-03-30,Актобе
+91,91,Айгуль Жаксыбекова,"",Individual,+7 777 654 1122,aigul.jaks@mail.kz,2023-10-22,Шымкент
+92,92,Кайрат Тулегенов,TOO FastConnect KZ,Business,+7 705 678 3344,k.tulegenov@fastconnect.kz,2022-11-30,Алматы
+93,93,Айман Нуркожаева,"",Individual,+7 701 322 9988,aiman_nur@mail.kz,2024-04-14,Кызылорда
+94,94,Тимур Амангельдиев,TOO Steppe Fiber,Business,+7 776 554 2211,timur.am@steppefiber.kz,2023-06-09,Астана
+95,95,Жания Тулеубаева,"",Individual,+7 778 661 9987,j.tuleu@bk.ru,2022-07-29,Семей
+96,96,Сабит Ергали,"",Individual,+7 707 111 3344,sabyt.ergali@gmail.com,2023-12-01,Павлодар
+97,97,Азамат Тажибаев,TOO Cloudstream KZ,Business,+7 775 300 4321,azamat.tz@cloudstream.kz,2022-10-03,Караганда
+98,98,Жанель Рахметова,"",Individual,+7 702 987 7766,zhan.rahmetova@mail.kz,2023-05-06,Атырау
+99,99,Асемгуль Аманова,"",Individual,+7 777 999 8899,as_am@mail.kz,2024-02-10,Астана
+100,100,Талгат Бейсенов,TOO NetSky KZ,Business,+7 707 666 7777,t.beysenov@netsky.kz,2023-07-18,Кокшетау
+101,101,Марат Тлеубаев,"",Individual,+7 702 334 7765,marat_t@mail.kz,2022-08-05,Петропавловск
+102,102,Алмагуль Токтарова,"",Individual,+7 701 223 4455,alma_toktarova@bk.ru,2023-11-29,Караганда
+103,103,Муратхан Абдиханов,TOO GlobalFiber,Business,+7 775 123 9988,m.abdihanov@globalfiber.kz,2024-06-02,Талдыкорган
+104,104,Жамиля Маханова,"",Individual,+7 705 678 1234,jamilya.makhanova@mail.kz,2022-09-17,Алматы
+105,105,Еркин Калиев,"",Individual,+7 707 321 4567,erkinkaliev@mail.kz,2023-02-14,Кызылорда
+106,106,Гаухар Шалабаева,"",Individual,+7 778 543 2211,gau.shalabayeva@bk.ru,2024-01-25,Шымкент
+107,107,Айдос Токтаров,"",Individual,+7 701 432 9999,aidos_toktarov@mail.kz,2023-10-31,Атырау
+108,108,Алия Жанибекова,"",Individual,+7 705 998 1122,aliya.janibekova@gmail.com,2023-03-07,Уральск
+109,109,Бекзат Сарсенов,TOO SatNet KZ,Business,+7 702 654 7766,bekzat.s@satnet.kz,2022-06-20,Астана
+110,110,Назгуль Тастанова,"",Individual,+7 707 333 8899,nazgul.tastanova@mail.kz,2024-05-11,Костанай

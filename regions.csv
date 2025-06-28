@@ -1,0 +1,18 @@
+#,region_id,region_name,city,address
+1,1,Алматы,Almaty,Example Address 1
+2,2,Нур-Султан,Astana,Example Address 2
+3,3,Астана,Astana,Example Address 3
+4,4,Шымкент,Shymkent,Example Address 4
+5,5,Караганда,Karaganda,Example Address 5
+6,6,Актобе,Aktobe,Example Address 6
+7,7,Павлодар,Pavlodar,Example Address 7
+8,8,Уральск,Oral,Example Address 8
+9,9,Костанай,Kostanay,Example Address 9
+10,10,Тараз,Taraz,Example Address 10
+11,11,Семей,Semey,Example Address 11
+12,12,Кызылорда,Kyzylorda,Example Address 12
+13,13,Усть-Каменогорск,Ust-Kamenogorsk,Example Address 13
+14,14,Атырау,Atyrau,Example Address 14
+15,15,Кокшетау,Kokshetau,Example Address 15
+16,16,Темиртау,Temirtau,Example Address 16
+17,17,Петропавловск,Petropavl,Example Address 17

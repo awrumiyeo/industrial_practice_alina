@@ -1,0 +1,112 @@
+#,employee_id,full_name,position,department,hire_date,email,phone
+1,223,Aigerim Toktarova,Network Engineer,Technical Department,2021-03-15,atoktarova@transtelecom.kz,+7 701 123 4567
+2,224,Daniyar Alimov,Sales Manager,Sales,2020-11-02,dalimov@transtelecom.kz,+7 707 234 5678
+3,225,Aliya Beketova,HR Specialist,Human Resources,2019-08-20,abeketova@transtelecom.kz,+7 702 345 6789
+4,226,Ernar Suleimenov,System Administrator,IT,2022-01-10,esuleimenov@transtelecom.kz,+7 705 456 7890
+5,227,Zhanna Nurkhanova,Financial Analyst,Finance,2020-05-18,znurkhanova@transtelecom.kz,+7 701 567 8901
+6,228,Dias Mukhamedzhanov,Project Manager,Technical Department,2021-09-25,dmukhamedzhanov@transtelecom.kz,+7 707 678 9012
+7,229,Madina Kairatkyzy,Customer Support Specialist,Support,2022-04-12,mkairatkyzy@transtelecom.kz,+7 708 789 0123
+8,230,Askar Zhaksylykov,Security Engineer,IT,2018-06-30,azhaksylykov@transtelecom.kz,+7 700 890 1234
+9,231,Karina Tulegenova,Marketing Analyst,Marketing,2023-02-17,ktulegenova@transtelecom.kz,+7 707 901 2345
+10,232,Yermek Nurbekov,Accountant,Finance,2019-12-04,ynurbekov@transtelecom.kz,+7 701 012 3456
+11,233,Saltanat Amanzholova,Legal Advisor,Legal,2021-07-22,samanzholova@transtelecom.kz,+7 705 123 4567
+12,234,Timur Kuatov,Business Analyst,Business Intelligence,2020-10-08,tkuatov@transtelecom.kz,+7 702 234 5678
+13,235,Dana Yessimova,Data Analyst,Analytics,2022-05-14,dyessimova@transtelecom.kz,+7 706 345 6789
+14,236,Adilzhan Mukhanov,Technical Writer,Documentation,2023-06-01,amukhanov@transtelecom.kz,+7 708 456 7890
+15,237,Sabina Kadyrova,UX/UI Designer,Design,2020-09-17,skadyrova@transtelecom.kz,+7 709 567 8901
+16,238,Ramazan Bekbolat,IT Auditor,Audit,2021-12-11,rbekbolat@transtelecom.kz,+7 707 678 9012
+17,239,Alua Kassenova,Recruiter,Human Resources,2019-03-06,akassenova@transtelecom.kz,+7 705 789 0123
+18,240,Murager Seitkhan,Infrastructure Engineer,Technical Department,2022-08-20,mseitkhan@transtelecom.kz,+7 700 890 1234
+19,241,Zarina Alzhanova,Copywriter,Marketing,2023-01-29,zalzhanova@transtelecom.kz,+7 707 901 2345
+20,242,Ayan Nurpeisov,Database Administrator,IT,2021-04-15,anurpeisov@transtelecom.kz,+7 708 012 3456
+21,243,Indira Shalabayeva,Operations Manager,Operations,2020-06-23,ishalabayeva@transtelecom.kz,+7 702 123 4567
+22,244,Ruslan Orynbek,Product Manager,Product,2019-10-19,rorynbek@transtelecom.kz,+7 701 234 5678
+23,245,Aruzhan Serikkyzy,PR Manager,Communications,2021-11-28,aserikkyzy@transtelecom.kz,+7 705 345 6789
+24,246,Yerassyl Kudaibergen,DevOps Engineer,IT,2022-03-15,ykudaibergen@transtelecom.kz,+7 707 456 7890
+25,247,Kamila Zhandarbek,Sales Analyst,Sales,2020-02-12,kzhandarbek@transtelecom.kz,+7 706 567 8901
+26,248,Samat Adilkhan,Training Coordinator,HR Training,2023-04-05,sadilkhan@transtelecom.kz,+7 708 678 9012
+27,249,Nazerke Zharaskan,Corporate Lawyer,Legal,2021-08-13,nzharaskan@transtelecom.kz,+7 709 789 0123
+28,250,Erzhan Seitov,Support Technician,Support,2019-01-24,eseitov@transtelecom.kz,+7 701 890 1234
+29,251,Aliya Sarsembayeva,QA Tester,IT,2022-07-10,asarsembayeva@transtelecom.kz,+7 702 901 2345
+30,252,Nurbolat Turgunov,Billing Specialist,Finance,2020-03-29,nturgunov@transtelecom.kz,+7 700 012 3456
+31,253,Bibigul Aitimova,Technical Support Agent,Support,2023-05-27,baitimova@transtelecom.kz,+7 708 123 4567
+32,254,Sanzhar Mukatayev,Cloud Engineer,IT,2021-02-18,smukatayev@transtelecom.kz,+7 700 234 5678
+33,255,Gulmira Ospanova,Payroll Officer,Finance,2019-11-10,gospanova@transtelecom.kz,+7 707 345 6789
+34,256,Miras Zhaksylyk,Business Development Manager,Sales,2020-07-01,mzhaksylyk@transtelecom.kz,+7 708 456 7890
+35,257,Altynai Sagintayeva,Graphic Designer,Marketing,2022-03-11,asagintayeva@transtelecom.kz,+7 709 567 8901
+36,258,Nurlan Tolegenov,Risk Manager,Audit,2018-09-29,ntolegenov@transtelecom.kz,+7 705 678 9012
+37,259,Aruzhan Nysanbayeva,Event Coordinator,Communications,2023-01-07,anysanbayeva@transtelecom.kz,+7 706 789 0123
+38,260,Yerzhan Tazhibayev,Systems Architect,IT,2020-06-03,ytazhibayev@transtelecom.kz,+7 701 890 1234
+39,261,Dinara Shalabek,Compensation Specialist,Human Resources,2019-05-15,dshalabek@transtelecom.kz,+7 700 901 2345
+40,262,Assem Mukasheva,Content Manager,Marketing,2021-10-21,amukasheva@transtelecom.kz,+7 708 012 3456
+41,263,Rauan Temirzhanov,Software Developer,IT,2022-11-30,rtemirzhanov@transtelecom.kz,+7 709 123 4567
+42,264,Botagoz Alimzhan,Executive Assistant,Executive,2020-04-25,balimzhan@transtelecom.kz,+7 702 234 5678
+43,265,Kairat Nurmukhanbet,Field Engineer,Technical Department,2018-02-28,knurmukhanbet@transtelecom.kz,+7 701 345 6789
+44,266,Zhanel Bekturova,Legal Assistant,Legal,2021-05-19,zbekturova@transtelecom.kz,+7 705 456 7890
+45,267,Talgat Amangeldi,Sales Director,Sales,2017-08-13,tamangeldi@transtelecom.kz,+7 707 567 8901
+46,268,Aigerim Nurzhan,Digital Strategist,Marketing,2022-01-03,anurzhan@transtelecom.kz,+7 709 678 9012
+47,269,Bakytzhan Tursyn,QA Engineer,IT,2020-03-22,btursyn@transtelecom.kz,+7 706 789 0123
+48,270,Zarina Kassym,Social Media Manager,Marketing,2023-06-09,zkassym@transtelecom.kz,+7 701 890 1234
+49,271,Nurgul Madenova,Training Specialist,HR Training,2021-07-17,nmadenova@transtelecom.kz,+7 705 901 2345
+50,272,Daniyar Ualikhan,Procurement Manager,Operations,2019-12-01,dualikhan@transtelecom.kz,+7 702 012 3456
+51,273,Amina Serzhan,Email Marketing Specialist,Marketing,2022-05-05,aserzhan@transtelecom.kz,+7 708 123 4567
+52,274,Raiymbek Zhakan,IT Support Engineer,Support,2020-08-20,rzhakan@transtelecom.kz,+7 707 234 5678
+53,275,Kamshat Zhumabay,Onboarding Coordinator,Human Resources,2023-02-24,kzhumabay@transtelecom.kz,+7 709 345 6789
+54,276,Adilet Kaiyr,Cost Controller,Finance,2019-10-07,akaiyr@transtelecom.kz,+7 706 456 7890
+55,277,Zharaskan Dulat,Integration Engineer,IT,2021-03-03,zdulat@transtelecom.kz,+7 701 567 8901
+56,278,Saltanat Rakhat,Market Research Analyst,Marketing,2020-01-14,srakhat@transtelecom.kz,+7 700 678 9012
+57,279,Serik Tulegen,IT Consultant,IT,2018-04-11,stulegen@transtelecom.kz,+7 705 789 0123
+58,280,Aliya Nurmanova,Internal Auditor,Audit,2022-06-01,anurmanova@transtelecom.kz,+7 709 890 1234
+59,281,Arman Bexeitov,Billing Manager,Finance,2021-12-16,abexeitov@transtelecom.kz,+7 708 901 2345
+60,282,Dinmukhamed Sadyk,Mobile Developer,IT,2020-09-29,dsadyk@transtelecom.kz,+7 702 012 3456
+61,283,Bayan Kaliyeva,Data Engineer,Analytics,2023-01-12,bkaliyeva@transtelecom.kz,+7 707 123 4567
+62,284,Erlan Beket,Call Center Operator,Support,2022-03-15,ebeket@transtelecom.kz,+7 705 234 5678
+63,285,Aruzhan Tolegenova,Recruiter,Human Resources,2022-07-15,atolegenova@transtelecom.kz,+7 705 345 6789
+64,286,Yermek Sadykov,Backend Developer,IT,2021-05-09,ysadykov@transtelecom.kz,+7 701 456 7890
+65,287,Kamila Abenova,Marketing Analyst,Marketing,2020-10-30,kabenova@transtelecom.kz,+7 707 567 8901
+66,288,Nursultan Saparov,Security Specialist,IT Security,2019-06-27,nsaparov@transtelecom.kz,+7 702 678 9012
+67,289,Aliya Kairbek,Accountant,Finance,2018-12-18,akairbek@transtelecom.kz,+7 708 789 0123
+68,290,Dauren Amanov,Network Technician,Technical Department,2021-11-05,damanov@transtelecom.kz,+7 709 890 1234
+69,291,Zhansaya Kalymbek,Legal Advisor,Legal,2020-03-13,zkalymbek@transtelecom.kz,+7 705 901 2345
+70,292,Bauyrzhan Yerzhanov,SAP Specialist,IT,2023-01-22,byerzhanov@transtelecom.kz,+7 707 012 3456
+71,293,Aisulu Zhaxylykovna,Training Manager,HR Training,2019-08-14,azhaxylykovna@transtelecom.kz,+7 700 123 4567
+72,294,Dias Bekmaganbet,Operations Coordinator,Operations,2020-02-11,dbekmaganbet@transtelecom.kz,+7 701 234 5678
+73,295,Gulzhanat Orazbek,UI/UX Designer,Design,2022-05-03,gorazbek@transtelecom.kz,+7 705 345 6789
+74,296,Zhandos Kuanov,DevOps Engineer,IT,2021-04-06,zkuanov@transtelecom.kz,+7 709 456 7890
+75,297,Madina Aidar,Internal Communications Manager,Communications,2023-02-20,maidar@transtelecom.kz,+7 702 567 8901
+76,298,Yerkezhan Adilbekova,Technical Writer,IT Documentation,2018-09-23,yadilbekova@transtelecom.kz,+7 708 678 9012
+77,299,Tamerlan Raimbek,Procurement Analyst,Procurement,2019-11-30,traimbek@transtelecom.kz,+7 706 789 0123
+78,300,Lazzat Ermek,Budget Specialist,Finance,2020-06-19,lermek@transtelecom.kz,+7 701 890 1234
+79,301,Zangar Tleuov,Frontend Developer,IT,2021-08-28,zleuov@transtelecom.kz,+7 700 901 2345
+80,302,Nazerke Orynbassarova,PR Manager,Marketing,2022-03-01,norynbassarova@transtelecom.kz,+7 709 012 3456
+81,303,Yeldar Mukhan,Energy Specialist,Infrastructure,2017-12-22,ymukhan@transtelecom.kz,+7 705 123 4567
+82,304,Saltanat Daulenova,Data Scientist,Analytics,2020-11-08,sdaulenova@transtelecom.kz,+7 707 234 5678
+83,305,Anuar Alibek,Call Center Manager,Support,2019-01-30,aalibek@transtelecom.kz,+7 702 345 6789
+84,306,Karlygash Tazhibaeva,Compensation Manager,Human Resources,2021-06-14,ktazhibaeva@transtelecom.kz,+7 708 456 7890
+85,307,Timur Nurlanov,IT Project Manager,IT,2023-04-10,tnurlanov@transtelecom.kz,+7 706 567 8901
+86,308,Gaukhar Rakhym,Copywriter,Marketing,2022-08-07,grakhym@transtelecom.kz,+7 701 678 9012
+87,309,Adema Tuyakbayeva,Recruitment Assistant,HR,2020-01-12,atuyakbayeva@transtelecom.kz,+7 705 789 0123
+88,310,Zhaksylyk Ilyas,Support Engineer,Support,2021-10-23,zilyas@transtelecom.kz,+7 709 890 1234
+89,311,Ali Turganov,Financial Analyst,Finance,2020-09-04,aturganov@transtelecom.kz,+7 700 901 2345
+90,312,Dariya Nurpeis,E-learning Coordinator,HR Training,2023-01-29,dnurpeis@transtelecom.kz,+7 702 012 3456
+91,313,Samat Kenzhebay,Technical Recruiter,HR,2022-02-17,skenzhebay@transtelecom.kz,+7 707 123 4567
+92,314,Amina Tulegenova,Lead QA Engineer,IT,2021-03-05,atulegenova@transtelecom.kz,+7 705 234 5678
+93,315,Nurlan Kadyrov,IT Support Specialist,Support,2020-04-16,nkadyrov@transtelecom.kz,+7 705 123 7890
+94,316,Assel Tursynbek,Finance Controller,Finance,2021-07-12,atursynbek@transtelecom.kz,+7 701 234 8901
+95,317,Ramazan Dauletov,Logistics Manager,Operations,2022-02-08,rdauletov@transtelecom.kz,+7 707 345 9012
+96,318,Zarina Sarsenova,Data Entry Specialist,Administration,2023-01-03,zsarsenova@transtelecom.kz,+7 709 456 0123
+97,319,Danel Yergali,Systems Analyst,IT,2019-05-25,dyergali@transtelecom.kz,+7 702 567 1234
+98,320,Miras Utegen,Database Administrator,IT,2020-09-11,mutegen@transtelecom.kz,+7 708 678 2345
+99,321,Akmaral Ryskulova,Graphic Designer,Marketing,2021-11-19,aryskulova@transtelecom.kz,+7 700 789 3456
+100,322,Azamat Tolegen,Business Analyst,Analytics,2022-06-07,atolegen@transtelecom.kz,+7 705 890 4567
+101,323,Indira Saduakas,Training Specialist,HR Training,2018-10-14,isaduakas@transtelecom.kz,+7 701 901 5678
+102,324,Zhanar Zhaksylyk,Legal Consultant,Legal,2020-03-29,zzhaksylyk@transtelecom.kz,+7 707 012 6789
+103,325,Ruslan Tazabek,Project Coordinator,Operations,2019-07-06,rtazabek@transtelecom.kz,+7 709 123 7890
+104,326,Aruzhan Yeszhan,Procurement Manager,Procurement,2021-01-28,ayeszhan@transtelecom.kz,+7 702 234 8901
+105,327,Aigul Zhumagalieva,Technical Support Engineer,Technical Department,2021-10-01,a.zhumagalieva@transtelecom.kz,+7 707 332 1188
+106,328,Erasyl Amanzholov,Network Specialist,Network Technologies,2022-03-14,e.amanzholov@transtelecom.kz,+7 775 443 9021
+107,329,Diana Isataeva,HR Manager,Human Resources,2023-02-27,d.isataeva@transtelecom.kz,+7 701 923 1145
+108,330,Samat Kaliyev,DevOps Engineer,IT Department,2022-08-16,s.kaliev@transtelecom.kz,+7 702 788 9901
+109,331,Almagul Smagulova,Business Analyst,Analytics & Strategy,2023-04-09,a.smagulova@transtelecom.kz,+7 778 221 6700
+110,332,Madiyar Ibraev,Financial Analyst,Finance Department,2021-06-20,m.ibraev@transtelecom.kz,+7 776 543 2133
+111,333,Karina Sergazina,Marketing Specialist,Marketing,2024-01-12,k.sergazina@transtelecom.kz,+7 705 992 8811
