@@ -1,0 +1,150 @@
+# 1. Top 10 clients with the highest number of support requests:
+SELECT client_id, COUNT(*) AS total_requests
+FROM support_requests
+GROUP BY client_id
+ORDER BY total_requests DESC
+LIMIT 10;
+
+
+# 2. List of open support requests created in March 2024:
+SELECT request_id, subject, created_at
+FROM support_requests
+WHERE status = 'Open' 
+  AND MONTH(created_at) = 3 
+  AND YEAR(created_at) = 2024;
+
+
+# 3. Clients with at least one request with “Low” priority:
+SELECT DISTINCT c.client_id, c.full_name
+FROM clients c
+JOIN support_requests sr ON sr.client_id = c.client_id
+WHERE sr.priority = 'Low';
+
+
+# 4. Support requests resolved more than 2 days after creation:
+SELECT request_id, TIMESTAMPDIFF(HOUR, created_at, resolved_at) AS hours_taken
+FROM support_requests
+WHERE resolved_at IS NOT NULL 
+  AND TIMESTAMPDIFF(HOUR, created_at, resolved_at) > 48;
+
+
+5. Percentage of requests in each status:
+SELECT status,
+       ROUND(COUNT(*) * 100.0 / (SELECT COUNT(*) FROM support_requests), 2) AS percentage
+FROM support_requests
+GROUP BY status;
+
+
+# 6. Clients with no support requests:
+SELECT client_id, full_name
+FROM clients
+WHERE client_id NOT IN (
+    SELECT DISTINCT client_id FROM support_requests
+);
+
+
+# 7. All requests assigned to employee with ID = 300:
+SELECT DISTINCT c.client_id, c.full_name
+FROM clients c
+JOIN support_requests sr ON sr.client_id = c.client_id
+JOIN assignments a ON a.request_id = sr.request_id
+WHERE a.employee_id = 300;
+
+
+# 8. Number of requests per month for 2024:
+SELECT MONTH(created_at) AS month, COUNT(*) AS total_requests
+FROM support_requests
+WHERE YEAR(created_at) = 2024
+GROUP BY month
+ORDER BY month;
+
+
+# 9. Top 5 clients by number of unique request priorities:
+SELECT client_id, COUNT(DISTINCT priority) AS unique_priorities
+FROM support_requests
+GROUP BY client_id
+ORDER BY unique_priorities DESC
+LIMIT 5;
+
+
+# 10. For each client: total and average resolution time of requests:
+SELECT
+    c.client_id,
+    c.full_name,
+    COUNT(sr.request_id) AS total_requests,
+    AVG(TIMESTAMPDIFF(HOUR, sr.created_at, sr.resolved_at)) AS avg_resolution_time
+FROM clients c
+JOIN support_requests sr ON sr.client_id = c.client_id
+WHERE sr.resolved_at IS NOT NULL
+GROUP BY c.client_id, c.full_name;
+
+
+# 11. Days passed since each client’s last request:
+SELECT
+    c.client_id,
+    c.full_name,
+    DATEDIFF(CURDATE(), MAX(sr.created_at)) AS days_since_last_request
+FROM clients c
+LEFT JOIN support_requests sr ON sr.client_id = c.client_id
+GROUP BY c.client_id, c.full_name;
+
+
+#12. Employees with unresolved support requests:
+SELECT DISTINCT a.employee_id
+FROM assignments a
+JOIN support_requests sr ON a.request_id = sr.request_id
+WHERE sr.status IN ('Open', 'In Progress');
+
+
+# 13. Time difference in hours between created_at and resolved_at for each request:
+SELECT
+    request_id,
+    subject,
+    created_at,
+    resolved_at,
+    TIMESTAMPDIFF(HOUR, created_at, resolved_at) AS resolution_time_hours
+FROM support_requests
+WHERE resolved_at IS NOT NULL;
+
+
+# 14. Average resolution time by priority:
+SELECT
+    priority,
+    ROUND(AVG(TIMESTAMPDIFF(HOUR, created_at, resolved_at)), 2) AS avg_resolution_hours
+FROM support_requests
+WHERE resolved_at IS NOT NULL
+GROUP BY priority;
+
+
+# 15. Last request assigned to each employee:
+SELECT *
+FROM (
+    SELECT
+        a.*,
+        ROW_NUMBER() OVER (PARTITION BY employee_id ORDER BY assigned_at DESC) AS rn
+    FROM assignments a
+) latest
+WHERE rn = 1;
+
+
+# 16. Regional stats: total clients, business clients, most recent client, and rank by total clients:
+WITH ranked_clients AS (
+    SELECT
+        r.region_name AS region,
+        c.full_name,
+        c.client_type,
+        c.registration_date,
+        RANK() OVER (PARTITION BY r.region_name ORDER BY c.registration_date DESC) AS reg_rank
+    FROM clients c
+    JOIN regions r ON c.region = r.region_name
+)
+
+SELECT
+    region,
+    COUNT(*) AS total_clients,
+    COUNT(CASE WHEN client_type = 'Business' THEN 1 END) AS business_clients,
+    MAX(registration_date) AS last_registration_date,
+    MAX(CASE WHEN reg_rank = 1 THEN full_name END) AS most_recent_client
+FROM ranked_clients
+GROUP BY region
+ORDER BY total_clients DESC;
